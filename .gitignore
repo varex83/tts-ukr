@@ -32,24 +32,6 @@ ENV/
 *.swo
 .DS_Store
 
-# # Project specific
-# logs/
-# # *.wav
-# *.mp3
-# *.ogg
-# *.raw
-
-# LaTeX
-*.aux
-*.log
-*.out
-*.toc
-*.pdf
-*.synctex.gz
-_minted*/
-*.fls
-*.fdb_latexmk
-
 # Temporary files
 *.tmp
 *.bak
