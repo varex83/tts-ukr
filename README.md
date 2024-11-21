@@ -2,6 +2,8 @@
 
 A syllable-based text-to-speech system for the Ukrainian language that generates natural-sounding speech by combining recorded syllables.
 
+![img](resources/image.png)
+
 ## Features
 
 - Record and process Ukrainian words and syllables
