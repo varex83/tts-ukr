@@ -33,8 +33,6 @@ ENV/
 .DS_Store
 
 # Project specific
-dataset/
-output/
 logs/
 *.wav
 *.mp3
