@@ -32,12 +32,12 @@ ENV/
 *.swo
 .DS_Store
 
-# Project specific
-logs/
-*.wav
-*.mp3
-*.ogg
-*.raw
+# # Project specific
+# logs/
+# # *.wav
+# *.mp3
+# *.ogg
+# *.raw
 
 # LaTeX
 *.aux
